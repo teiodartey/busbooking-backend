@@ -10,11 +10,24 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mssql": "^11.0.1",
+    "nodemailer": "^7.0.5",
     "xml2js": "^0.6.2"
   },
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teiodartey/busbooking-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teiodartey/busbooking-backend/issues"
+  },
+  "homepage": "https://github.com/teiodartey/busbooking-backend#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
