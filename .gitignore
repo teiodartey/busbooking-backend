@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Runtime files
+*.pid
+*.seed
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.bak
